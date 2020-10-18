@@ -19,3 +19,6 @@ Fully responsive in all devices, including text, navBars and pictures.
 
 Suggestions and contributions from my peers and instructors is highly appreciated. Contributions can occur via email, Slack or through any of my social media pages listed in the website.
 
+## Website Image
+
+![](image/websiteimage.PNG)
