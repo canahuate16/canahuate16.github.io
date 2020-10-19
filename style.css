@@ -1,3 +1,9 @@
+h2 {
+  text-align: center;
+  font-weight: bold;
+  border: solid black;
+  margin-bottom: 800px;
+}
 .row {
   width: 100%;
 }
@@ -28,6 +34,9 @@ img {
     float: left; */
   max-width: 100%;
 }
+.image {
+  height: auto;
+}
 
 nav {
   margin-bottom: 25px;
@@ -40,8 +49,9 @@ body {
   margin-left: 20px;
   margin-right: 20px;
   min-height: 400px;
-  margin-bottom: 150px;
+  margin-bottom: 300px;
   clear: both;
+  padding-bottom: 130px;
 }
 
 .links {
