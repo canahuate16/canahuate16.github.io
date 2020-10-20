@@ -2,7 +2,7 @@
 
 ## Link
  Website link: https://canahuate16.github.io/
- Github Link: https://github.com/canahuate16/canahuate16.github.io
+
 
 
 ## Description: 
