@@ -3,6 +3,7 @@ h2 {
   font-weight: bold;
   border: solid black;
   margin-bottom: 800px;
+  margin-top: 800px;
 }
 .row {
   width: 100%;
@@ -36,6 +37,7 @@ img {
 }
 .image {
   height: auto;
+  margin-bottom: 50px;
 }
 
 nav {
