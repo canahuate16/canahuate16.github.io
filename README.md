@@ -9,7 +9,7 @@
 This is my personal portfolio where the latest projects I have creaetd will be showcased a long with description of my coding skills and current abilities. This is a live product that will be changing as I learn new technologies and become a more advanced programmer.
 
 ## Tech/framework use
-A combination of Bootstrap a long with information found on websites such as stackoverflow and forums. 
+Bootstrap, HTML5, CSS3, (JavaScript, jQuery, JSON on portfolio links )
 
 ## Features
 Fully responsive in all devices, including text, navBars and pictures.
