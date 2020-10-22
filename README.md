@@ -22,3 +22,10 @@ Suggestions and contributions from my peers and instructors is highly appreciate
 ## Website Image
 
 ![](image/websiteimage.PNG)
+
+## License
+Copyright (C) 2011 - 2020 Olivier Biot
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
